@@ -1,0 +1,6 @@
+@ACCIONES_BACKEND_HostAddress = http://localhost:5144
+
+GET {{ACCIONES_BACKEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
