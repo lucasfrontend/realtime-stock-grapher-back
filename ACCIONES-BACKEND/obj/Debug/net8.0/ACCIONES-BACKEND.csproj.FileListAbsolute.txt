@@ -207,3 +207,4 @@ C:\Users\lucas\OneDrive\Escritorio\METAFAR\ACCIONES-BACKEND\ACCIONES-BACKEND\obj
 C:\Users\lucas\OneDrive\Escritorio\METAFAR\ACCIONES-BACKEND\ACCIONES-BACKEND\obj\Debug\net8.0\ACCIONES.2843EAA9.Up2Date
 C:\Users\lucas\OneDrive\Escritorio\METAFAR\ACCIONES-BACKEND\ACCIONES-BACKEND\obj\Debug\net8.0\ACCIONES-BACKEND.genruntimeconfig.cache
 C:\Users\lucas\OneDrive\Escritorio\METAFAR\ACCIONES-BACKEND\ACCIONES-BACKEND\obj\Debug\net8.0\ref\ACCIONES-BACKEND.dll
+C:\Users\lucas\OneDrive\Escritorio\METAFAR\ACCIONES-BACKEND\ACCIONES-BACKEND\obj\Debug\net8.0\ACCIONES-BACKEND.sourcelink.json

@@ -150,11 +150,19 @@ namespace ACCIONES_BACKEND.Controllers
       return Ok("Acción eliminada de favoritas");
     }
 
-    //Endpoint de test
+    // GET /api/users/test endpoint para testear conectividad
     [HttpGet("test")]
-    public string Test()
+    public ActionResult<string> Test()
     {
-      return "TESTING";
+      var users = _context.Users.ToList();
+
+      var response = new
+      {
+        Message = "El servidor está levantado y funcionando correctamente.",
+        Users = users
+      };
+
+      return Ok(response);
     }
   }
 }
