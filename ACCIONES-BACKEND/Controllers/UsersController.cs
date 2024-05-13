@@ -158,7 +158,7 @@ namespace ACCIONES_BACKEND.Controllers
 
       var response = new
       {
-        Message = "El servidor está levantado y funcionando correctamente.",
+        Message = "El servidor está levantado y funcionando correctamente. Buscar 'NFLX' para testear la performance de la app, con otras acciones la api key aquí utilizado presenta un plan limitado)",
         Users = users
       };
 
